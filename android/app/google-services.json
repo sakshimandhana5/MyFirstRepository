@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "399850413055",
+    "project_id": "evergreen-2aca4",
+    "storage_bucket": "evergreen-2aca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399850413055:android:b994c07718d1697078a5ca",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399850413055-uk5pria5vadafk3o2eiehnfr7ut2806a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WPaZuzQh5kqg69g7HU0nXPu5rtxJDn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399850413055-uk5pria5vadafk3o2eiehnfr7ut2806a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399850413055:android:e5c0400363b1529b78a5ca",
+        "android_client_info": {
+          "package_name": "com.yinwolf.evergreen.evergreen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399850413055-uk5pria5vadafk3o2eiehnfr7ut2806a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WPaZuzQh5kqg69g7HU0nXPu5rtxJDn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399850413055-uk5pria5vadafk3o2eiehnfr7ut2806a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
